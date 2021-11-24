@@ -1,28 +1,38 @@
-## WhatsApp User Bot
+<div align="center">
+  <img border-radius: 15px src="https://i.imgur.com/uEBY9sp.jpeg" width="170" height="170"/>
+  <p align="center">
+<a href="#"><img title="FAKE SREYAS" src="https://img.shields.io/badge/SREYASBOT-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+  <p align="center">
+<a href="https://github.com/sreyaswa"><img title="Author" src="https://img.shields.io/badge/Author-FAKE SREYAS/SREYASBOT?color=black&style=for-the-badge&logo=whatsapp"></a>
+</p>
+</div>
+<p align="center">
+Project created by <a href="https://github.com/FAKE SREYAS">SREYASBOT</a> to make it public
+    <br>
+       | © |
+        Reserved |
+    <br> 
+</p>
 
-This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com/Quiec)
 
-## What is WhatsAsena?
+CREATED BY FAKE SREYAS OFC
 
-**WhatsAsena,** is a WhatsApp bot written by [Yusuf Usta](https://github.com/Quiec). Does not log into your account It is written on WhatsApp Web API.
-
-## Setup
+#HOW TO DEPLOY BOT#
 
 1. Click [SCAN](https://replit.com/@Nightbot2O/baileys-qr) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
 2. You will get a long text that needs after 4th step (ASENA_SESSION).
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
-4. Now click [DEPLOY](https://heroku.com/deploy?template=https://github.com/lyfe00011/whatsapp-bot) and Follow.
+4. Now click [DEPLOY](https://heroku.com/deploy?template=https://github.com/sreyaswa/sreyasbot) and Follow.
    <br>
-   <a href="https://youtu.be/G4KknEgKWoA"><img src="https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
-   <br>
-   <a href="https://chat.whatsapp.com/Ear1cUkcdvW4idBD9jqmyj"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
-<a href="https://github.com/lyfe00011/whatsapp-bot/wiki/"><img src="https://img.shields.io/badge/plugins-blue?style=for-the-badge&logo=appveyor%22"/></a>
-
+   
+<a href="https://github.com/sreyaswa/sreyasbot/wiki/"><img src="https://i.imgur.com/YSlMVkV.jpeg/plugins-blue?style=for-the-badge&logo=appveyor%22"/></a>
+FAKE SREYAS
+CLICK THE IMAGE TO DIRECTLY GO TO WIKI 
 <!--
-[![Run on Repl.it](https://replit.com/badge/github/lyfe00011/whatsapp-bot)](https://replit.com/@Nightbot2O/baileys-qr)
+[![Run on Repl.it](https://replit.com/badge/github/sreyaswa/sreyasbot)](https://replit.com/@Nightbot2O/baileys-qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lyfe00011/whatsapp-bot) -->
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sreyaswa/sreyasbot) -->
 
 | Active | Group commands |
 | :----: | :------------- |
@@ -104,7 +114,4 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 |   ✔️   | Block/unblock     | Blocks/unblocks members      |
 |   ✔️   | Broadcast         | Custom Broadcasting Messages |
 
-## Thanks To
-
-- [Yusuf Usta](https://github.com/Quiec) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
-- [@adiwajshing](https://github.com/adiwajshing) for [Baileys](https://github.com/adiwajshing/Baileys)
+credits = fake sreyas ofc
