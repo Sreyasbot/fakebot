@@ -4,7 +4,11 @@
         <img 
 src="https://i.imgur.com/uEBY9sp.jpeg" alt="IMG" width="220" height="190"/>
 </p>
-
+<a href="#"><img title="sreyaswabot" src="https://img.shields.io/badge/Sreyasbot-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+  <p align="center">
+<a href="https://github.com/Sreyasbot"><img title="Author" src="https://img.shields.io/badge/Author-Sreyasbot/sreyaswabot?color=black&style=for-the-badge&logo=whatsapp"></a>
+</p>
 </div>
 <p align="center">
 ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/sreyasbot">sreyaswa</a>
