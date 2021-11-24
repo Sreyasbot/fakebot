@@ -1,9 +1,6 @@
 
 
 <div align="center">
-<img 
-src="https://i.imgur.com/uEBY9sp.jpeg" alt="img" width="220" height="30"/>
-</p>
         <img 
 src="https://i.imgur.com/uEBY9sp.jpeg" alt="IMG" width="220" height="190"/>
 </p>
