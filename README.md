@@ -1,20 +1,25 @@
+
+
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/uEBY9sp.jpeg" width="170" height="170"/>
-  <p align="center">
-<a href="#"><img title="FAKE SREYAS" src="https://img.shields.io/badge/SREYASBOT-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<img 
+src="https://i.imgur.com/uEBY9sp.jpeg" alt="img" width="220" height="30"/>
 </p>
-  <p align="center">
-<a href="https://github.com/sreyaswa"><img title="Author" src="https://img.shields.io/badge/Author-FAKE SREYAS/SREYASBOT?color=black&style=for-the-badge&logo=whatsapp"></a>
+        <img 
+src="https://i.imgur.com/uEBY9sp.jpeg" alt="IMG" width="220" height="190"/>
 </p>
+
 </div>
 <p align="center">
-Project created by <a href="https://github.com/FAKE SREYAS">SREYASBOT</a> to make it public
+ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/sreyasbot">sreyaswa</a>
     <br>
        | © |
-        Reserved |
+        Reserved 
     <br> 
 </p>
 
+- - -
+
+<div align="center">
 
 CREATED BY FAKE SREYAS OFC
 
